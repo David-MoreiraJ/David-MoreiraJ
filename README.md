@@ -1,3 +1,4 @@
+<div align="center">
 ## About me
 Hello! My name is David and I am a Computer Engineering student at [CEFET](http://www.cefet-rj.br/index.php).
 
@@ -7,4 +8,6 @@ Hello! My name is David and I am a Computer Engineering student at [CEFET](http:
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmoreirajacinto2012@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-moreira-19066a20a/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmoreirajacinto2012@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-moreira-19066a20a/)
+</div>
+
