@@ -1,7 +1,7 @@
 <div align="center">
 
 ## About me
-Hello! My name is David and I am a Computer Engineering student at [CEFET](http://www.cefet-rj.br/index.php).
+Hello! My name is David and I am a Electronics and Computer Engineering student at [UFRJ](https://www.poli.ufrj.br/).
 
 ## Operating Systems & Tools
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/) [![Linux Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
